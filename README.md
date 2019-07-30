@@ -1,4 +1,4 @@
-#  Validating DropBox applicaiton
+#  Validating DropBox application
 
    A BDD Automation Test Framework to validate the DropBox Share Folder functionality 
 
@@ -12,9 +12,9 @@
 	`Path` = "C:\git"
 	 Then do Git Clone `https://github.com/Suresh0607/DropBoxProject.git`
 						or 
-    Copy the Zip File into the Path folder and UNZip.
+     Copy the Zip File into the `Path` folder and UNZip.
 						or 
-	Copy the ShareFolder into the Path Folder for the DropBox.					
+     Copy the ShareFolder into the `Path` Folder from the DropBox.					
 						
 
 2.   Open the Project in The Visual Studio 2017  
